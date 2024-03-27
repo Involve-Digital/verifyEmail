@@ -1,10 +1,6 @@
 VerifyEmail
 ==========
 
-## *** IMPORTANT *** This is repo is no longer maintained.
-
-
-
 Is a PHP class that can be easily used to verify an email address and make sure it is valid and does exist on the mail server.
 
 This class connects to the mail server and checks whether the mailbox exists or not.
